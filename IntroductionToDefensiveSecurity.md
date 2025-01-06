@@ -1,8 +1,5 @@
 ---
 
-
----
-
 <p><strong>Introduction to Defensive Security</strong></p>
 <p>defensive security. It is concerned with two main tasks:</p>
 <ol>
